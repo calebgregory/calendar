@@ -1,0 +1,11 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^3.0.1",
+    "googleapis": "39",
+    "moment": "^2.24.0"
+  }
+}

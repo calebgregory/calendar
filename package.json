@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "post-install": "ln -s ./src node_modules/app"
+    "post-install": "ln -s `pwd`/src node_modules/app"
   },
   "dependencies": {
     "commander": "^3.0.1",

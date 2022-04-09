@@ -9,6 +9,6 @@
   "dependencies": {
     "commander": "^3.0.1",
     "googleapis": "39",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
